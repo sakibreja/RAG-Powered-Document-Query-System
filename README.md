@@ -15,7 +15,8 @@ text segments.
 information. 
 * Developed a user-friendly interface for querying and displaying results with preserved 
 text formatting. 
-## Impact: Streamlined the extraction of insights from large documents, reducing 
+## Impact: 
+Streamlined the extraction of insights from large documents, reducing 
 manual search time and improving accuracy. The system supports applications in 
 research, education, and content analysis by delivering precise, context-rich answers 
 from unstructured text data. 
