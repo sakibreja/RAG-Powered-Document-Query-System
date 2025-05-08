@@ -1,8 +1,10 @@
 # RAG-Powered-Document-Query-System
-## Purpose: Designed a Retrieval-Augmented Generation (RAG) system to enable efficient 
+## Purpose: 
+Designed a Retrieval-Augmented Generation (RAG) system to enable efficient 
 querying and contextual understanding of large documents, leveraging advanced NLP and AI 
 models for accurate information retrieval and generation. 
-## Tools & Technologies: Python, LangChain, Hugging Face Embeddings, FAISS, Groq API, 
+## Tools & Technologies: 
+Python, LangChain, Hugging Face Embeddings, FAISS, Groq API, 
 Sentence Transformers, Jupyter Notebook, Text Processing Libraries 
 ## Key Contributions: 
 * Implemented a document processing pipeline using LangChain for text splitting and 
